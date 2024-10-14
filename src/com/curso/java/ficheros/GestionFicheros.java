@@ -111,7 +111,7 @@ public class GestionFicheros {
 //            	String dni = datosAlumno[1];
 //            	String apellido = datosAlumno[2];
 //            	int edad = Integer.parseInt(datosAlumno[3]);
-//            	
+            	
 //            	Alumno a = new Alumno(dni, nombre, apellido);
 //            	listaAlumnos.add(a);
             	

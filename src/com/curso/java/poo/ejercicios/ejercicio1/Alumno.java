@@ -95,6 +95,12 @@ public class Alumno {
 			System.out.println("Sin permisos para mostrar la nota");
 		}
 	}
+
+	@Override
+	public String toString() {
+		return "Alumno [dni=" + dni + ", nombre=" + nombre + ", apellidos=" + apellidos + ", mayorEdad=" + mayorEdad
+				+ ", nota=" + nota + "]";
+	}
 	
 	
 	
